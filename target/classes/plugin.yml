@@ -1,0 +1,8 @@
+name: MCBattleRush
+author: fusion
+version: 1.0.0
+main: mcbattlerush.Main
+api-version: 1.19
+commands:
+  assignToTeam:
+  teamcheck:

@@ -1,0 +1,8 @@
+config:
+  currency:
+    singular: 'Crystal'
+    plural: 'Crystals'
+  default_balance: 0
+
+accounts:
+  Notch: 1000

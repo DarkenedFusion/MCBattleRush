@@ -1,0 +1,16 @@
+name: MCBattleRush
+author: fusion
+version: 0.0.6
+main: mcbattlerush.Main
+api-version: 1.19
+commands:
+  assignToTeam:
+  teamcheck:
+  assignRed:
+  assignBlue:
+  grant:
+  resetTeam:
+  start:
+  money:
+  setGameState:
+  exchange:
