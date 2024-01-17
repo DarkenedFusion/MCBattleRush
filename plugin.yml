@@ -1,0 +1,8 @@
+name: MCBR
+author: fusion
+version: 1.0.0
+main: MCBR.MCBR
+api-version: 1.19
+commands:
+  createTeams:
+
